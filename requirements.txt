@@ -1,3 +1,2 @@
-Flask==2.3.3
-tiktok-downloader==0.1.8
-gunicorn==20.1.0
+Flask==2.0.3
+tiktok_downloader==<latest-version>
